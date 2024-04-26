@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "-file:README",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"type\":Country]",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "[\"type\":Religious]",
+      "color": {
+        "a": 1,
+        "rgb": 15056430
+      }
+    },
+    {
+      "query": "[\"type\":Government]",
+      "color": {
+        "a": 1,
+        "rgb": 10647143
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0771678868463452,
+  "close": false
+}
