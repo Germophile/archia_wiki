@@ -1,6 +1,8 @@
 ---
 Type:
   - Government
+Nations:
+  - Escher
 ---
 The Noble Assembly is an organization made up of representatives from each of the noble houses. Each representative, known as the family's Assembler, gets a vote based on the title held by the family's parriarch: 5 votes for a duke, 4 votes for a marquess, 3 votes for an earl, 2 votes for a viscount, and 1 vote for a baron. Traditionally the firstborn son of a noble family's main line becomes the Assembler upon reaching adulthood, although it isn't unheard of for a firstborn daughter to take the position, particularly if a family has no male children. Assemblers may appoint proxies to attend meetings for them; generally these proxies are given their votes but traditionally don't participate in debates or discussions. It is considered unusual and even scandalous for a proxy to take the debate floor in the Noble Assembly.
 

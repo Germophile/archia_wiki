@@ -1,6 +1,8 @@
 ---
 Type:
   - Government
+Nations:
+  - Escher
 ---
 King Heinrich (733) and Queen Andrea (487) Albright are the beloved rulers of [[Escher]]. Heinrich is widely regarded as wise, kind, and fair; Andrea is considered intelligent, shrewd, and highly competent. Although Heinrich is perhaps more liked by the people than Andrea, she is the pride of the nation, an efficient administrator and ruthless commander in chief that has slowly taken over Heinrich's duties in his old age, and [[Escher]] has prospered as a result.
 

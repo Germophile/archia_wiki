@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Groups": "multitext",
-    "Type": "multitext"
+    "Type": "multitext",
+    "Nations": "multitext"
   }
 }
