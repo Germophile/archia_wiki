@@ -14,13 +14,13 @@ The world's foremost wizard academy, Crescenscia University's College of Arcane 
 Although the Archdeans don't have explicit, codified political power, they are extremely influential, achieving an almost unrivaled level of celebrity within [[Crescen]]. Their input is often sought by the [[The Magi|Magi]] for difficult decisions.
 
 ## Archdeans
- - [[Mineas Panoh, Archdean of Abjuration]]
- - [[Mihalis Cosmili, Archdean of Chronurgy]]
- - [[Amare Tassiade, Archdean of Conjuration]]
-- [[Rayleigh Kondakis, Archdean of Divination]]
-- [[Hafthara Maneli, Archdean of Enchantment]]
-- [[Ulathor Magnesium, Archdean of Evocation]]
-- [[Nikitas Hashim, Archdean of Illusion]]
-- [[Ursam Ebrahimi, Archdean of Necromancy]]
-- [[Ismini Priscilis, Archdean of Transmutation]]
+ - [[Archdean of Abjuration, Mineas Panoh]]
+ - [[Archdean of Chronurgy, Mihalis Cosmili]]
+ - [[Archdean of Conjuration, Amare Tassiade]]
+- [[Archdean of Divination, Rayleigh Kondakis]]
+- [[Archdean of Enchantment, Hafthara Maneli]]
+- [[Archdean of Evocation, Ulathor Magnesium]]
+- [[Archdean of Illusion, Nikitas Hashim]]
+- [[Archdean of Necromancy, Ursam Ebrahimi]]
+- [[Archdean of Transmutation, Ismini Priscilis]]
 

@@ -1,11 +1,13 @@
 ---
 Type:
-  - Religious
+  - God
 Nations:
   - Escher
   - Isseria
   - Anabe
   - Crescen
+tags:
+  - religion
 ---
 Divine Domains: Light, Order, Forge
 

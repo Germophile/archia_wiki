@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "[\"type\":Religious]",
+      "query": "[\"tags\":religion]",
       "color": {
         "a": 1,
         "rgb": 15056430
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 10647143
+      }
+    },
+    {
+      "query": "[\"tags\":university]",
+      "color": {
+        "a": 1,
+        "rgb": 5202884
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.588030057569188,
+  "scale": 0.7668237207612407,
   "close": false
 }

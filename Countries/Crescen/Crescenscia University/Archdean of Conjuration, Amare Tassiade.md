@@ -1,0 +1,14 @@
+Amare is something of a legend at [[Crescenscia University]], where she has been the Archdean of Conjuration for the past 118 years, the second longest tenure of any currently serving Archdean. She is perhaps the most respected wizard at the institution, and every time a new Magus is selected, everyone insists that this time, she will join the tournament and claim her rightful place among the [[The Magi|Magi]], but she has never entered it.
+
+She is often credited for stopping the Disaster of 1335, summoning a titanic construct to kill the maddened Archdean Zafar after the archdeans of Abjuration and Evocation died trying to stop him.
+
+Amare grew up in Escher as a noblewoman, studying artifice for fun, but when she reached adulthood, she cut off all of her hair in a dramatic gesture and walked from Orbwick to Crescenscia to enroll as a student of wizardry. She very nearly failed out, but was later invited back as a professor after a few years of impressive adventuring.
+
+![Amare Tassiade](https://www.worldanvil.com/uploads/images/d856bf76a52da3d8790ed251033440d5.png)
+
+> [!Star]-
+> Amare is often known for her minimalistic and efficient approach to magic, preferring to cut down on individual flairs and flourishes and casting spells at their most basic form, increasing the raw efficiency of her magic. It was because of this tendency that she almost failed out of school as a student, but she made a name for herself as a travelling mage and was eventually invited back to the school as an instructor by the previous archdean, a man who'd almost failed her as a professor. He personally groomed her as his replacement and she was appointed by the Magi when he retired. Her tenure has shaped Conjuration to be a very practicum-oriented school, where understanding of magical theory comes second to practical mastery.
+> 
+> She doesn't abstain entirely from school and national politics, but she prefers to leave such things to others unless it is absolutely necessary for her to intervene. Because of this, any time she steps in it is taken extremely seriously, and it is almost unheard of for the other Archdeans or even the Magi to contradict her suggestions.
+> 
+> It's not uncommon for her to notice a student struggling to transcribe a spell into their spellbook and simply lean down, correct their error, and then continue with whatever she was doing without saying a word to them. The ability to do this is extremely impressive, even among the world's most powerful wizards -- most instructors would have to take time to familiarize themselves with the student's personal annotation before they were able to pinpoint the error.

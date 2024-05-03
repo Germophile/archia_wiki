@@ -1,9 +1,10 @@
 ---
 Type:
-  - Religious
   - Government
 Nations:
   - Escher
+tags:
+  - religion
 ---
 The Church of [[Kolif'rem]] is the monotheistic religion that rules [[Escher]] alongside its [[Escherian Monarchy|monarchs]] and the [[Noble Assembly]]. It has a temple in every major city and maintains a shrine in most small towns as well. The temples are stacked with clerics, which are plentiful in [[Escher]]; paladins staff many of the Church's operations as well, but it isn't a very monastic religion--why would a devotee of [[Kolif'rem]] engage in martial combat when they could shoot you with a pistol forged with the holy fire provided by their god?
 
