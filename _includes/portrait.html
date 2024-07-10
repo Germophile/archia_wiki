@@ -1,0 +1,51 @@
+{% if include.lookup %}
+  {% assign character = site.characters 
+    | where_exp: "character", "character.slug == include.lookup"
+    | first
+  %}
+{% else %}
+  {% assign character = include %}
+{% endif %}
+
+{% assign type = site.data.types[character.role] %}
+
+<div class="portrait-wrapper">
+  <a
+    {% if page.slug != character.slug %}
+      href="{{ character.url | relative_url }}"
+    {% endif %}
+    class="portrait"
+    data-style="{{ include.style }}"
+    aria-label="{{ character.name | default: "character link" }}"
+  >
+    {% if type %}
+      {% include icon.html icon=type.icon %}
+    {% endif %}
+
+    <img
+      src="{{ character.image | relative_url }}"
+      class="portrait-image"
+      alt="character portrait"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+
+    {% if character.name %}
+      <span class="portrait-name">
+        {{ character.name }}
+      </span>
+    {% endif %}
+
+    {% if character.description or type %}
+      <span class="portrait-description">
+        {{ character.description | default: type.description }}
+      </span>
+    {% endif %}
+
+    {% if character.affiliation %}
+      <span class="portrait-affiliation">
+        {{ character.affiliation }}
+      </span>
+    {% endif %}
+  </a>
+</div>
